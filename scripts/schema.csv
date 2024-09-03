@@ -1,31 +1,31 @@
-﻿"table_name","column_name","data_type","is_nullable","column_default"
-"brand_categories","id","bigint","NO",""
-"brand_categories","name","text","NO",""
-"brands","id","uuid","NO","gen_random_uuid()"
-"brands","created_at","timestamp with time zone","NO","now()"
-"brands","name","text","YES",""
-"brands","desc","character varying","YES",""
-"brands","url","character varying","YES",""
-"brands","logoURL","uuid","YES",""
-"certifications","id","uuid","NO","gen_random_uuid()"
-"certifications","created_at","timestamp with time zone","NO","now()"
-"certifications","name","text","NO",""
-"certifications","url","character varying","NO",""
-"certifications","regenerative","boolean","NO","false"
-"certifications","logoURL","uuid","YES",""
-"producer_categories","id","bigint","NO",""
-"producer_categories","name","text","NO",""
-"producers","id","uuid","NO","gen_random_uuid()"
-"producers","created_at","timestamp with time zone","NO","now()"
-"producers","url","character varying","YES",""
-"producers","location_simple","text","YES",""
-"producers","desc","character varying","YES",""
-"producers","name","text","YES",""
-"rel_brands_categories","brand_id","uuid","NO",""
-"rel_brands_categories","category_id","bigint","NO",""
-"rel_brands_certifications","brand_id","uuid","NO",""
-"rel_brands_certifications","certification_id","uuid","NO",""
-"rel_producers_categories","producer_id","uuid","NO",""
-"rel_producers_categories","category_id","bigint","NO",""
-"rel_producers_certifications","producer_id","uuid","NO",""
-"rel_producers_certifications","certification_id","uuid","NO",""
+table_name,column_name,data_type,is_nullable,column_default
+brand_categories,id,bigint,NO,
+brand_categories,name,text,NO,
+brands,id,uuid,NO,gen_random_uuid()
+brands,created_at,timestamp with time zone,NO,now()
+brands,name,text,YES,
+brands,desc,character varying,YES,
+brands,url,character varying,YES,
+brands,logoURL,uuid,YES,
+certifications,id,uuid,NO,gen_random_uuid()
+certifications,created_at,timestamp with time zone,NO,now()
+certifications,name,text,NO,
+certifications,url,character varying,NO,
+certifications,regenerative,boolean,NO,FALSE
+certifications,logoURL,uuid,YES,
+producer_categories,id,bigint,NO,
+producer_categories,name,text,NO,
+producers,id,uuid,NO,gen_random_uuid()
+producers,created_at,timestamp with time zone,NO,now()
+producers,url,character varying,YES,
+producers,location_simple,text,YES,
+producers,desc,character varying,YES,
+producers,name,text,YES,
+rel_brands_categories,brand_id,uuid,NO,
+rel_brands_categories,category_id,bigint,NO,
+rel_brands_certifications,brand_id,uuid,NO,
+rel_brands_certifications,certification_id,uuid,NO,
+rel_producers_categories,producer_id,uuid,NO,
+rel_producers_categories,category_id,bigint,NO,
+rel_producers_certifications,producer_id,uuid,NO,
+rel_producers_certifications,certification_id,uuid,NO,
