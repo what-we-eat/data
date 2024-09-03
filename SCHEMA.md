@@ -1,34 +1,79 @@
 # Database Schema
 
-Last updated: [Current Date]
+Last updated: 2024-09-03
 
-## Table: [Table Name 1]
-
-| Column Name | Data Type | Nullable | Default | Description |
-|-------------|-----------|----------|---------|-------------|
-| id          | UUID      | NO       | uuid_generate_v4() | Primary key |
-| name        | TEXT      | NO       | NULL    | Name of the item |
-| created_at  | TIMESTAMP | NO       | now()   | Creation timestamp |
-...
-
-## Table: [Table Name 2]
+## Table: brand_categories
 
 | Column Name | Data Type | Nullable | Default | Description |
 |-------------|-----------|----------|---------|-------------|
-| id          | UUID      | NO       | uuid_generate_v4() | Primary key |
-| [Table1]_id | UUID      | NO       | NULL    | Foreign key to [Table Name 1] |
-| value       | INTEGER   | YES      | NULL    | Some value |
-...
+| id | bigint | NO |  | |
+| name | text | NO |  | |
 
-## Relationships
+## Table: brands
 
-- `[Table Name 2].[Table1]_id` references `[Table Name 1].id`
+| Column Name | Data Type | Nullable | Default | Description |
+|-------------|-----------|----------|---------|-------------|
+| id | uuid | NO | gen_random_uuid() | |
+| created_at | timestamp with time zone | NO | now() | |
+| name | text | YES |  | |
+| desc | character varying | YES |  | |
+| url | character varying | YES |  | |
+| logoURL | uuid | YES |  | |
 
-## Indexes
+## Table: certifications
 
-- `[Table Name 1]_name_idx` on `[Table Name 1] (name)`
+| Column Name | Data Type | Nullable | Default | Description |
+|-------------|-----------|----------|---------|-------------|
+| id | uuid | NO | gen_random_uuid() | |
+| created_at | timestamp with time zone | NO | now() | |
+| name | text | NO |  | |
+| url | character varying | NO |  | |
+| regenerative | boolean | NO | FALSE | |
+| logoURL | uuid | YES |  | |
 
-## Notes
+## Table: producer_categories
 
-- Add any additional notes about the schema here
-- Include information about any triggers, functions, or special constraints
+| Column Name | Data Type | Nullable | Default | Description |
+|-------------|-----------|----------|---------|-------------|
+| id | bigint | NO |  | |
+| name | text | NO |  | |
+
+## Table: producers
+
+| Column Name | Data Type | Nullable | Default | Description |
+|-------------|-----------|----------|---------|-------------|
+| id | uuid | NO | gen_random_uuid() | |
+| created_at | timestamp with time zone | NO | now() | |
+| url | character varying | YES |  | |
+| location_simple | text | YES |  | |
+| desc | character varying | YES |  | |
+| name | text | YES |  | |
+
+## Table: rel_brands_categories
+
+| Column Name | Data Type | Nullable | Default | Description |
+|-------------|-----------|----------|---------|-------------|
+| brand_id | uuid | NO |  | |
+| category_id | bigint | NO |  | |
+
+## Table: rel_brands_certifications
+
+| Column Name | Data Type | Nullable | Default | Description |
+|-------------|-----------|----------|---------|-------------|
+| brand_id | uuid | NO |  | |
+| certification_id | uuid | NO |  | |
+
+## Table: rel_producers_categories
+
+| Column Name | Data Type | Nullable | Default | Description |
+|-------------|-----------|----------|---------|-------------|
+| producer_id | uuid | NO |  | |
+| category_id | bigint | NO |  | |
+
+## Table: rel_producers_certifications
+
+| Column Name | Data Type | Nullable | Default | Description |
+|-------------|-----------|----------|---------|-------------|
+| producer_id | uuid | NO |  | |
+| certification_id | uuid | NO |  | |
+
