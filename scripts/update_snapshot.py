@@ -15,7 +15,7 @@ def update_snapshot():
     tables = [record['table_name'] for record in response.data]
 
     # Ensure the directory exists
-    os.makedirs('public_data/snapshots/latest', exist_ok=True)
+    os.makedirs('data/snapshots/latest', exist_ok=True)
 
     for table in tables:
         # Fetch data from Supabase
@@ -23,7 +23,7 @@ def update_snapshot():
         data = response.data
 
         # Write the updated data to a CSV file
-        with open(f'public_data/snapshots/latest/{table}.csv', 'w', newline='') as f:
+        with open(f'data/snapshots/latest/{table}.csv', 'w', newline='') as f:
             if data:
                 writer = csv.DictWriter(f, fieldnames=data[0].keys())
                 writer.writeheader()
@@ -34,7 +34,7 @@ def update_snapshot():
         'last_updated': datetime.now().isoformat(),
         'table_record_counts': {table: len(supabase.table(table).select("*").execute().data) for table in tables}
     }
-    with open('public_data/snapshots/latest/metadata.json', 'w') as f:
+    with open('data/snapshots/latest/metadata.json', 'w') as f:
         json.dump(metadata, f, indent=2)
 
 if __name__ == "__main__":
