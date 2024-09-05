@@ -1,0 +1,21 @@
+name: Notify Data Explorer of Changes
+
+on:
+  push:
+    branches:
+      - main  # or whatever your default branch is named
+    paths:
+      - 'SCHEMA.md'
+      - 'public_data/snapshots/latest/**'
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repository Dispatch
+        uses: peter-evans/repository-dispatch@v2
+        with:
+          token: ${{ secrets.DATA_EXPLORER_PAT }}
+          repository: your-org-name/data-explorer-repo
+          event-type: data-updated
+          client-payload: '{"ref": "${{ github.ref }}", "sha": "${{ github.sha }}"}'
