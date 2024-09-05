@@ -3,14 +3,14 @@
 This document provides a detailed overview of the database schema for the Meaningful Bites project.
 Note: This schema documentation is automatically updated to reflect any changes in the database structure. Last updated: 2024-09-03
 
-## Table: brand_categories
+## brand_categories
 
 | Column Name | Data Type | Nullable | Default | Description |
 |-------------|-----------|----------|---------|-------------|
 | id | bigint | NO |  | |
 | name | text | NO |  | |
 
-## Table: brands
+## brands
 
 | Column Name | Data Type | Nullable | Default | Description |
 |-------------|-----------|----------|---------|-------------|
@@ -21,7 +21,7 @@ Note: This schema documentation is automatically updated to reflect any changes 
 | url | character varying | YES |  | |
 | logoURL | uuid | YES |  | |
 
-## Table: certifications
+## certifications
 
 | Column Name | Data Type | Nullable | Default | Description |
 |-------------|-----------|----------|---------|-------------|
@@ -32,14 +32,14 @@ Note: This schema documentation is automatically updated to reflect any changes 
 | regenerative | boolean | NO | FALSE | |
 | logoURL | uuid | YES |  | |
 
-## Table: producer_categories
+## producer_categories
 
 | Column Name | Data Type | Nullable | Default | Description |
 |-------------|-----------|----------|---------|-------------|
 | id | bigint | NO |  | |
 | name | text | NO |  | |
 
-## Table: producers
+## producers
 
 | Column Name | Data Type | Nullable | Default | Description |
 |-------------|-----------|----------|---------|-------------|
@@ -50,28 +50,28 @@ Note: This schema documentation is automatically updated to reflect any changes 
 | desc | character varying | YES |  | |
 | name | text | YES |  | |
 
-## Table: rel_brands_categories
+## rel_brands_categories
 
 | Column Name | Data Type | Nullable | Default | Description |
 |-------------|-----------|----------|---------|-------------|
 | brand_id | uuid | NO |  | |
 | category_id | bigint | NO |  | |
 
-## Table: rel_brands_certifications
+## rel_brands_certifications
 
 | Column Name | Data Type | Nullable | Default | Description |
 |-------------|-----------|----------|---------|-------------|
 | brand_id | uuid | NO |  | |
 | certification_id | uuid | NO |  | |
 
-## Table: rel_producers_categories
+## rel_producers_categories
 
 | Column Name | Data Type | Nullable | Default | Description |
 |-------------|-----------|----------|---------|-------------|
 | producer_id | uuid | NO |  | |
 | category_id | bigint | NO |  | |
 
-## Table: rel_producers_certifications
+## rel_producers_certifications
 
 | Column Name | Data Type | Nullable | Default | Description |
 |-------------|-----------|----------|---------|-------------|
