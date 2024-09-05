@@ -1,5 +1,5 @@
 {
-  "last_updated": "2024-09-05T01:31:28.935571",
+  "last_updated": "2024-09-05T01:46:11.570036",
   "table_record_counts": {
     "certifications": 13,
     "producers": 1,
@@ -10,7 +10,7 @@
     "brands": 1,
     "rel_brands_categories": 1,
     "brand_categories": 9,
-    "test_table": 25,
-    "function_logs": 122
+    "test_table": 26,
+    "function_logs": 128
   }
 }
