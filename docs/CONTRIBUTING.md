@@ -9,7 +9,7 @@ We're excited that you're interested in contributing to Meaningful Bites! This d
 4. [Submitting Changes](#submitting-changes)
 5. [Review Process](#review-process)
 6. [Data Quality Guidelines](#data-quality-guidelines)
-7. [Setting Up Local Environment](#setting-up-local-environment)
+7. [Understanding the Automated Update Process](#understanding-the-automated-update-process)
 8. [Code of Conduct](#code-of-conduct)
 
 ## Getting Started
@@ -22,9 +22,8 @@ We're excited that you're interested in contributing to Meaningful Bites! This d
 
 1. Identify the data you wish to add or update
 2. Open an issue describing the proposed changes
-3. Fork the repository on GitHub
-4. Make the changes in your fork
-5. Submit a pull request with your changes
+3. If approved, a project maintainer will make the changes in the Supabase database
+4. The automated system will update the public snapshot in this repository
 
 ## Proposing Data Updates
 
@@ -37,29 +36,36 @@ When proposing data updates, please:
 
 ## Submitting Changes
 
-1. Create a new branch for your changes: `git checkout -b data-update-description`
-2. Make your changes in the appropriate files
-3. Commit your changes with a clear commit message
-4. Push to your fork and submit a pull request
+As we now use an automated system to update the public snapshot, direct changes to the repository are not accepted. Instead:
+
+1. Open an issue with your proposed changes
+2. Discuss the changes with the project maintainers
+3. If approved, a maintainer will implement the changes in the Supabase database
 
 ## Review Process
 
-1. A project maintainer will review your pull request
-2. They may ask for additional information or request changes
-3. Once approved, your changes will be merged into the main branch
+1. A project maintainer will review your proposed changes
+2. They may ask for additional information or clarification
+3. Once approved, the changes will be made in the Supabase database
+4. The automated system will update the public snapshot in this repository
 
 ## Data Quality Guidelines
 
 - Ensure data accuracy and reliability
 - Provide sources for all new data
 - Follow the existing data format and structure
-- Update the DATA_SNAPSHOT.md file if you're adding substantial new data
+- The DATA_SNAPSHOT.md file will be automatically updated when changes are made
 
-## Setting Up Local Environment
+## Understanding the Automated Update Process
 
-1. Clone the repository: `git clone https://github.com/MeaningfulBites/data.git`
-2. Install required dependencies (list any specific requirements)
-3. Set up a local Supabase instance for testing (provide instructions or link to them)
+Our project uses an automated system to keep the public data snapshot up-to-date:
+
+1. Changes in the Supabase database trigger a webhook to this GitHub repository
+2. A GitHub Action is triggered, which fetches the latest data from Supabase
+3. The Action updates the files in the `public_data/snapshots/latest/` directory
+4. These changes are automatically committed and pushed to the repository
+
+This system ensures that the public snapshot always reflects the current state of our database.
 
 ## Code of Conduct
 

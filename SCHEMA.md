@@ -1,6 +1,7 @@
 # Database Schema
 
-Last updated: 2024-09-03
+This document provides a detailed overview of the database schema for the Meaningful Bites project.
+Note: This schema documentation is automatically updated to reflect any changes in the database structure. Last updated: 2024-09-03
 
 ## Table: brand_categories
 

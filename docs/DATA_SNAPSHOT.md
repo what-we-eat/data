@@ -1,6 +1,8 @@
 # Data Snapshot
 
-This file provides an overview of the current state of data in the Meaningful Bites project database. Last updated: 2024-09-03 15:28:36
+This file provides an overview of the current state of data in the Meaningful Bites project database. 
+
+**Note:** This snapshot is automatically updated whenever changes are made to the database. Last update: 2024-09-03 15:28:36
 
 ## Table Summaries
 
