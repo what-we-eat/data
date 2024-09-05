@@ -16,6 +16,6 @@ jobs:
         uses: peter-evans/repository-dispatch@v2
         with:
           token: ${{ secrets.DATA_EXPLORER_PAT }}
-          repository: your-org-name/data-explorer-repo
+          repository: Meaningful-Bites/data-explorer
           event-type: data-updated
           client-payload: '{"ref": "${{ github.ref }}", "sha": "${{ github.sha }}"}'
