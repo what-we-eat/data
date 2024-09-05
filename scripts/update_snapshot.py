@@ -18,12 +18,20 @@ def update_snapshot():
     
     tables = response.data
 
+    print(f"Tables fetched: {tables}")  # Debug print
+
     # Ensure the directory exists
     os.makedirs('public_data/snapshots/latest', exist_ok=True)
 
     for table in tables:
+        print(f"Processing table: {table}")  # Debug print
         # Fetch data from Supabase
         response = supabase.table(table).select("*").execute()
+        
+        if hasattr(response, 'error') and response.error is not None:
+            print(f"Error fetching data from table {table}: {response.error}")  # Debug print
+            continue
+
         data = response.data
 
         # Write the updated data to a CSV file
@@ -36,8 +44,16 @@ def update_snapshot():
     # Update metadata
     metadata = {
         'last_updated': datetime.now().isoformat(),
-        'table_record_counts': {table: len(supabase.table(table).select("*").execute().data) for table in tables}
+        'table_record_counts': {}
     }
+    for table in tables:
+        try:
+            count = len(supabase.table(table).select("*").execute().data)
+            metadata['table_record_counts'][table] = count
+        except Exception as e:
+            print(f"Error getting record count for table {table}: {str(e)}")
+            metadata['table_record_counts'][table] = "Error"
+
     with open('public_data/snapshots/latest/metadata.json', 'w') as f:
         json.dump(metadata, f, indent=2)
 
