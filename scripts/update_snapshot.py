@@ -54,7 +54,7 @@ def update_snapshot():
             print(f"Error getting record count for table {table}: {str(e)}")
             metadata['table_record_counts'][table] = "Error"
 
-    with open('public_data/snapshots/latest/metadata.json', 'w') as f:
+    with open('public_data/snapshots/latest/json/metadata.json', 'w') as f:
         json.dump(metadata, f, indent=2)
 
 if __name__ == "__main__":
