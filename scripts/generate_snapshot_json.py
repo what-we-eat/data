@@ -47,7 +47,7 @@ def generate_data_snapshot(csv_directory, output_file):
         json.dump(dict(snapshot), json_file, indent=2, ensure_ascii=False)
 
 if __name__ == "__main__":
-    csv_directory = os.path.join("..", "public_data", "snapshots", "latest")
+    csv_directory = os.path.join("public_data", "snapshots", "latest")
     # Place the output file in a 'json' subdirectory
     output_file = os.path.join(csv_directory, "json", "DATA_SNAPSHOT.json")
     generate_data_snapshot(csv_directory, output_file)

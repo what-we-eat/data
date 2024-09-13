@@ -3,10 +3,23 @@ import json
 import csv
 from datetime import datetime
 from supabase import create_client, Client
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
+
+# Debugging: Print environment variables
+print(f"SUPABASE_URL: {os.environ.get('SUPABASE_URL')}")
+print(f"SUPABASE_API_KEY: {os.environ.get('SUPABASE_API_KEY')}")
 
 # Initialize Supabase client
 url: str = os.environ.get("SUPABASE_URL")
-key: str = os.environ.get("SUPABASE_KEY")
+key: str = os.environ.get("SUPABASE_API_KEY")
+
+# Check if the variables are None
+if not url or not key:
+    raise ValueError("SUPABASE_URL and SUPABASE_API_KEY must be set")
+
 supabase: Client = create_client(url, key)
 
 def update_snapshot():
