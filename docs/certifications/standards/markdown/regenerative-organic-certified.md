@@ -3,16 +3,6 @@
 >- **Version**: 4.1
 >- **Last Updated**: June 27, 2023
 
-## Table of Contents
-1. [Introduction](#introduction)
-2. [Leveraging & Advancing Existing Standards](#leveraging--advancing-existing-standards)
-3. [Scope & Structure](#scope--structure)
-4. [Demonstration of Compliance](#demonstration-of-compliance)
-5. [Soil Health & Land Management](#soil-health--land-management)
-6. [Animal Welfare](#animal-welfare)
-7. [Farmer & Worker Fairness](#farmer--worker-fairness)
-8. [Appendix](#appendix)
-
 ## Introduction
 
 As agricultural practices continue to evolve, it is imperative that approaches to land management and associated processes are focused on contributing to the health of ecosystems, including human communities. Regenerative Organic Certified® builds upon and furthers the near 100-year legacy of organic movement visionaries like J. I. Rodale, Lady Eve Balfour, Dr. Rudolf Steiner, Sir Albert Howard, and the knowledge of generations of diverse, holistic producers—including native and Indigenous Peoples—that they channeled for inspiration and direction.
@@ -134,14 +124,20 @@ The Soil Health & Land Management module of Regenerative Organic Certified® see
 
 ### Standards for Soil Health & Land Management
 
-| **1. Base Requirements** | **Description** | **Bronze** | **Silver** | **Gold** |
+#### 1. Base Requirements
+
+| **Requirement** | **Description** | **Bronze** | **Silver** | **Gold** |
 |----------|-------------|--------|--------|------|
 | 1.1 Existing Certifications | Operation has proof of existing USDA Organic certification or recognized equivalent. | R | R | R |
 | 1.2 Regenerative Organic System Plan (ROSP) | Operation has a documented Regenerative Organic System Plan (ROSP), which includes implementation and requirements related to all relevant pillars. Detailed requirements are outlined in the ROSP template provided at [RegenOrganic.org/Resources](http://regenorganic.org/Resources). Required items include: <br><br> <ul><li>Tillage action plan</li><li>Soil lab test results & in-field soil testing results</li><li>Record of native flora and fauna on farm</li><li>Key performance indicators as required per pillar</li> | R | R | R |
 | 1.3 Water | Operations conserve and restore natural bodies of water, wetland, riparian areas, and associated habitats. Irrigation rights are legal. | R | R | R |
 | 1.4 Deforestation | From January 1, 2015 onward, operations have not cleared primary, untouched forest or old-growth secondary forests nor converted wetlands, peatlands, or protected grasslands into agricultural production. | R | R | R |
 | 1.5 Extractive Practices | Fracking, mining, and other extractive practices including initial exploration shall not be conducted on land within the operation. Exceptions exist in instances where the land owner does not own the mineral rights and therefore has no legal basis to prohibit a mineral owner to extract on their property; however, land owner should not aid or get compensated for extraction of any kind taking place on the property. Land owners shall require mineral owners to minimize contamination of the extraction site and surrounding area and to leave the extraction site in a condition that following a 36- month transition period the land may be used again for crop production after the exploration or extraction site is abandoned. | R | R | R |
-| **2. Regenerative Practices** | **Description** | **Bronze** | **Silver** | **Gold** |
+
+#### 2. Regenerative Practices
+
+| **Requirement** | **Description** | **Bronze** | **Silver** | **Gold** |
+|----------|-------------|--------|--------|------|
 | 2.1 Vegetative Cover | Operations shall aim to cover land with living vegetative cover year-round. Otherwise, maintenance of either dead/rolled/lightly incorporated crop residues or mulch is required when field preparation or planting is not underway. See requirements per level at right. <br><br>For perennial systems, either native vegetation or seeded mixes are maintained as ground cover between perennials. Exemptions may be granted when operations are unable to meet the above guidelines due to unforeseen factors, such as extreme weather. Documentation is required. <br><br> *CT: No vegetative cover maintained.* | Maintains year-round vegetative cover on **25-50%** of all cultivated land | Maintains year-round vegetative cover on **50-75%** of all cultivated land | Maintains year-round vegetative cover on **75-100%** of all cultivated land, and utilizes at least one nitrogen-fixing cover crop in each full crop rotation of each arable field. |
 | 2.2 Crop Rotations | Operations shall demonstrate use of crop rotations or perennial systems. Annual crop rotations should include a green manure. | Minimum of **three** crops rotated through the same area | Minimum of **four** crops rotated through the same area | Minimum of **seven** crops in each rotation, including at least one nitrogen-fixing cover crop |
 | 2.3 Minimal Soil Disturbance | The goal of Regenerative Organic Certified® is to reduce soil disturbance as much as possible. To achieve this goal, all tillage events shall be documented with an action plan to reduce intensity of tillage over time. <br><br> Soil disturbance shall only occur when necessary to accomplish one or more of these objectives: incorporate crop residues and/or green manures into soil to feed soil micro-organisms; control weeds; prepare seed bed/planting; break up compacted soil; or develop drainage. Shallow cultivation tools must be used whenever possible. <br><br> *Where no-till operations are not possible due to specific climate, soil, or crop condition, an operation may apply for an exemption at Gold level provided they can fully justify any incident of tillage.*| R | R | Operation shall adopt a no-till system where soil disturbance only occurs at time of planting |
@@ -150,17 +146,33 @@ The Soil Health & Land Management module of Regenerative Organic Certified® see
 | 2.6 Control of Invasive Species | Farmers identify, monitor, and manage the infestation of unwanted exotic or invasive plants and animals, including insects, that may spread to natural areas on and off the farm. | R | R | R |
 | 2.7 Protection for Endangered Plants and Animals | If not already prohibited by local or national laws, operation does not allow hunting, fishing, or gathering of rare or endangered animal species on the property, nor do they cause harm to the species' habitat. | R | R | R |
 | 2.8 Regenerative Practices | Operations engage in additional regenerative practices, beyond those required in USDA NOP, to improve overall ecosystem health and productivity of operations. See requirements per level at right. <br><br> These practices are documented with timestamped photos, preferably linked to GPS coordinates. <br><br> Examples: <br> <ul><li>Agroforestry</li><li>Anaerobic Digester</li><li>Forage & Biomass Planting</li> <li>Forest Stand Improvement and Forest Slash Treatment</li><li>Grassed Waterways</li><li>Herbaceous Wind Barriers & Field Borders</li><li>Integrated Crops & Animals</li><li>Moisture-Sensing Technologies for Irrigation</li><li>Mulching</li><li>Perennial Planting</li><li>Pollinator Habitats, Insectary Strips, or Wildlife Habitat</li><li>Reclamation of Mined Land or Landslide Treatment</li><li>Reduction of Off-Farm Inputs & Recycling of On-Farm Biomass</li><li>Riparian Restoration</li><li>Silvopasture Establishment</li>   <li>Tree / Shrub Establishment</li><li>Vegetative Barriers</li><li>Water Conservation and/or Wetland Restoration</li><li>Windbreak & Shelter Belt Establishment</li></ul> <br><br> Producers may use the ROSP to propose site-specific regenerative practices successfully implemented in their unique location and will be approved on a case-by-case basis. | **Three** of the practices listed are used in operation | **Four** of the practices listed are used in operation | **Five** or more of the practices listed are used in operation |
-| **3. Compost, Manure, and Fertilizers** | **Description** | **Bronze** | **Silver** | **Gold** |
+
+#### 3. Compost, Manure, and Fertilizers
+
+| **Requirement** | **Description** | **Bronze** | **Silver** | **Gold** |
+|----------|-------------|--------|--------|------|
 | 3.1 General | When used, the operation aims for self-sufficiency in compost and manures. If importing soil amendments to replace nutrients exported off-farm, they shall be from regionally available wastes and by-products. Effort must be made to ensure contaminants are not introduced on the farm through such recycled sources. The use of anaerobic liquid manure from CAFOs is not permitted. | R | R | R |
 | 3.2 Crop Nutrient Demand | Imported fertilizers are discouraged unless crop nutrient demand dictates. A comprehensive nutrient management plan or equivalent must be provided when nutrient use exceeds recommended rate. In dryland areas during seasons with low rainfall, additional imported N & P are allowed, but must be documented. | R | R | R |
-| **4. Facilities** | **Description** | **Bronze** | **Silver** | **Gold** |
+
+#### 4. Facilities
+
+| **Requirement** | **Description** | **Bronze** | **Silver** | **Gold** |
+|----------|-------------|--------|--------|------|
 | 4.1 Wastewater | Operation does not directly discharge untreated wastewater generated on farm into natural waterways or soil. Operation does not divert wastewater to bypass treatment. Industrial wastewater goes through primary and secondary treatment (onsite or offsite).<br><br> Facilities producing more than 50 cubic meters of wastewater per day shall have evidence of compliance to the prevailing authority. <br><br> *CT: Leaking wastewater pipes; wastewater is not prevented from overflowing outside the proper effluent streams in the case of rain.* <br><br> *CT: Lack of description and schematic diagram of onsite wastewater treatment system.* | R | R | R |
 | 4.2 Waste | The goal of Regenerative Organic Certified® is to minimize waste whenever possible. Operation does not illegally dump, bury, or burn waste. Operation documents that any hazardous waste is identified, isolated, and properly disposed. <br><br> *CT: Non-disclosure of any and all onsite sources of air emissions.* <br><br> *CT: No Restricted Substances List and/or lack of a program to ensure compliance with it.* | R | R | R |
-| **5. Use of Prohibited Substances** | **Description** | **Bronze** | **Silver** | **Gold** |
+
+#### 5. Use of Prohibited Substances
+
+| **Requirement** | **Description** | **Bronze** | **Silver** | **Gold** |
+|----------|-------------|--------|--------|------|
 | 5.1 Synthetic Chemicals | If used, organically approved pesticides that are highly toxic to pollinators, as defined by Xerces Society's "Toxicity of Common Organic-Approved Pesticides to Bees" shall not be applied within 50-100 feet of a waterbody or applied when pollinators are in flight. They shall be applied at the lowest efficacious rate and all effort shall be taken to find alternative controls. | R | R | R |
 | 5.2 Quick-acting Fertilizer | Operation does not use quick-acting soluble fertilizers such as Chilean Nitrate. | R | R | R |
 | 5.3 Genetically Modified Inputs & Cloning | Operation does not use any genetically modified additives or processing aids such as fertilizers, pesticides, herbicides, seeds, or crops derived from genetically modified sources, including emerging technologies that edit or regulate genes such as RNAi, CRISPR, and TALEN. Cloned animals are not eligible for Regenerative Organic Certified®. | R | R | R |
-| **6. Measurement** | **Description** | **Bronze** | **Silver** | **Gold** |
+
+#### 6. Measurement
+
+| **Requirement** | **Description** | **Bronze** | **Silver** | **Gold** |
+|----------|-------------|--------|--------|------|
 | 6.1 Soil Health Lab Test | Producers conduct Regenerative Organic Certified® Soil Health Lab Test in accordance with procedures laid out by an accredited organization, such as a university, lab, or private organization with an expertise in analyzing soil health.  Refer to the Regenerative Organic Certified® Soil Sampling Guidelines and appendices for specific guidance. Tests are to be conducted at initial certification application, and then every three years thereafter. <br><br> The same lab should be used for all testing to ensure consistency. | R | R | R |
 | 6.2 Soil Health In-Field Test | Producers conduct soil health in-field tests and follow Regenerative Organic Certified® Soil Health In-Field Test instructions in the Soil Sampling Guidelines. Results will be collected by ROA at initial certification audit, and then every audit thereafter. | R | R | R |
 | 6.3 Computer Models | Operators utilize computer-based modeling tools (e.g. COMET-Farm Voluntary Carbon Reporting Tool, Cool Farm Tool, etc.) to determine annual GHG emissions and sequestrations. | O | O | R |
@@ -173,39 +185,68 @@ The below standards are intended to incorporate the [five freedoms](#animal-welf
 
 ### Standards for Animal Welfare
 
-| **1. Base Requirements** | **Description** | **Bronze** | **Silver** | **Gold** |
+#### 1. Base Requirement
+
+| **Requirement** | **Description** | **Bronze** | **Silver** | **Gold** |
 |----------|-------------|--------|--------|------|
 | 1.1 Existing Certifications | All livestock products intended to be sold with a Regenerative Organic Certified® claim must have proof of existing USDA Organic certification or recognized equivalent for livestock. <br><br> Operation has proof of existing animal welfare certification recognized under the Regenerative Organic Certified®, as applicable to the operation being certified. <br><br> * *Dairies are exempt from holding an existing animal welfare certification provided all applicable criteria within the dairy specific module are met and verified at Regenerative Organic Certified® audit.* | R* | R | R |
 | 1.2 General | Operations have researched all applicable laws regarding animal welfare (general and species specific) and are in compliance with all local, provincial/state, and national laws. | R | R | R |
 | 1.3 Applicability | Animal welfare requirements apply to commercial livestock operations. <br><br> *CT: Egregious violations of the five freedoms of animal welfare and/or any abusive treatment of any animals on- site, commercial or non-commercial.* | Applicable to animals used for dairy, meat, or fiber production | Applicable to animals used for dairy, meat, or fiber production | Applicable to all animals on an operation, including those used for dairy, meat, or fiber production and farm operations |
 | 1.4 Concentrated Animal Feeding Operation | Operation does not feed animals in a manner that meets the EPA's definition of a CAFO: “A lot or facility (other than an aquatic animal production facility) where animals have been, are, or will be stabled or confined and fed or maintained for a total of 45 days or more in any 12- month period, and crops, vegetation, forage growth, or post-harvest residues are not sustained in the normal growing season over any portion of the lot or facility. The EPA provides specific thresholds by animal sector for small, medium, and large CAFOs. For example, a large CAFO for beef cattle is defined as 1,000 or more “animal units” confined for over 45 days a year.” <br><br> Exemptions may be granted to operations with more than 1,000 animal units that demonstrate ample pasture access and utilization. Such cases will be evaluated on an individual basis. | R | R | R |
-| **2. Nutrition and Water** | **Description** | **Bronze** | **Silver** | **Gold** |
+
+#### 2. Nutrition and Water
+
+| **Requirement** | **Description** | **Bronze** | **Silver** | **Gold** |
+|----------|-------------|--------|--------|------|
 | 2.1 General | Feed and water must be distributed in such a way that livestock can eat and drink without undue competition. Animals have access to sufficient feed quantity to satisfy hunger & promote satiety. | R | R | R |
 | 2.2 Water | Animals have access to fresh and clean water for drinking. Water fowl should also have access to fresh or clean water for bathing.<br><br>*CT: Limited fresh water access.* | R | R | R |
 | 2.3 Feed for Monogastrics | Monogastric feed comes from regenerative organic or certified organic sources. See requirements per level at right. | 100% organic sources | >50% from regenerative organic sources; remainder organic | 100% from regenerative organic sources |
 | 2.4 Feed for Ruminants | Ruminant feed comes from regenerative organic or certified organic grass/forage/baleage/hay. See requirements per level at right. <br><br> Supplementation for nutritional purposes using organically approved minerals, vitamins, and/or molasses is allowed. | >50% grass-fed; remainder from organic sources | >75% grass-fed; remainder from organic sources | 100% grass-fed (including finishing) |
 | 2.5 Forced Feeding | Operations do not force feed animals, unless it is for life-saving purposes. | R | R | R |
 | 2.6 Malnutrition | Farming practices promote proper nutrition, avoiding malnutrition. | R | R | R |
-| **3. Enviornment and Shelter** | **Description** | **Bronze** | **Silver** | **Gold** |
+
+#### 3. Environment and Shelter
+
+| **Requirement** | **Description** | **Bronze** | **Silver** | **Gold** |
+|----------|-------------|--------|--------|------|
 | 3.1 General | Environment is considerate of an animal's welfare needs. Environment is designed to protect animals from physical and thermal discomfort, fear, distress, and allows them to perform natural behaviors conducive to good animal welfare. <br><br> Selection of species and types of livestock are made with regard to suitability for site-specific conditions and resistance to prevalent diseases and pests. For meat chickens, breeds must be selected that demonstrate higher welfare outcomes and have the genetic growth potential of no more than .12 lbs (55g) per day. | R | R | R |
 | 3.2 Indoor Shelter | Animals are provided with shelter adequate for their physical and behavioral needs. Shelter for animals and birds may be provided by natural features such as shade, trees, or by buildings. Housing may also be used as shelter. In extreme weather there must be a means to feed and water animals in a sheltered environment. | R | R | R |
 | 3.3 Confinement | Operations do not use any type of permanent confinement that restricts mobility, and livestock live, eat, and sleep outdoors the majority of the time in alignment with the principles of the Five Freedoms. <br><br> There shall be continuous and open access to pasture. Temporary confinement may be used only when necessary and must be in alignment with the Regenerative Organic Certified® required baseline Animal Welfare standards.  | R | R | R |
 | 3.4 Light | Animals have exposure to natural light and are not exposed to artificial light for more than 16 hours per day. A minimum period of 8 hours of continuous darkness must be provided, unless located in geographies where there is less than 8 hours of darkness at night. Natural light must be sufficient indoors on sunny days, such that an inspector can read and write when all lights are turned off. In the case of hens, artificial light intensity is lowered gradually to encourage hens to move to perches or settle for the night. | R | R | R |
-| **4. Handling & Management** | **Description** | **Bronze** | **Silver** | **Gold** |
+
+#### 4. Handling & Management
+
+| **Requirement** | **Description** | **Bronze** | **Silver** | **Gold** |
+|----------|-------------|--------|--------|------|
 | 4.1 General | Producers promote compassionate care and handling of animals. Daily inspections of animals occur. | R | R | R |
 | 4.2 Physical Modifications | Operations do not abuse animals or treat animals with cruelty and do not use prohibited practices listed below. Exceptions to these prohibited practices must be in alignment with the Regenerative Organic Certified® required baseline Animal Welfare standards. <br><br> <ul><li>Beak Trimming / De-Beaking</li><li>Caponization</li><li>Cattle Wattling</li><li>Clipping, Grinding, or Filing of Teeth</li><li>Declawing/ Toe Clipping</li><li>Dehorning^</li><li>Desnooding</li><li>Despurring</li><li>Disbudding^</li><li>Dubbing</li><li>Ear Notching*</li><li>Forced Molting</li><li>Hot / Cold Branding</li><li>Mulesing</li><li>Pinioning</li><li>Prodding</li><li>Tail Docking of Cattle</li><li>Tail Docking of Sheep shorter than Distal End of Caudal Fold</li><li>Tusk Removal</li></ul> ^Must meet specific requirements detailed in Glossary of Key Terms, Appendix 1-A. <br><br> *Permitted for hog operations | R | R | R |
-| **5. Health** | **Description** | **Bronze** | **Silver** | **Gold** |
+
+#### 5. Health
+
+| **Requirement** | **Description** | **Bronze** | **Silver** | **Gold** |
+|----------|-------------|--------|--------|------|
 | 5.1 General | Treatment for sick, injured, or diseased animals is undertaken at the first reasonable opportunity to alleviate any unnecessary pain or distress. Operation does not withhold medical treatment from a sick animal in order to preserve certification status. Treatment is also undertaken for non-ambulatory livestock, even if the treatment causes the livestock to lose its certified status or to be humanely euthanized. <br><br> *CT: Animals are not treated effectively or promptly for injuries or sickness, or euthanized if necessary, using humane euthanasia methods as described in Euthanasia Section.* | R | R | R |
 | 5.2 Vaccines, Antibiotics, & Growth Hormones | When recommended by a veterinarian or if homeopathic, herbal, and other non-antibiotic treatments are not available, antibiotics are used to treat sick or injured animals Offspring cannot nurse on an animal that has been treated with antibiotics. Vaccines appropriate for the species and region are optimized for prevention of disease. Growth hormones or non-therapeutic use of substances to induce heat are prohibited. | R | R | R |
-| **6. Slaughter / Killing** | **Description** | **Bronze** | **Silver** | **Gold** |
+
+#### 6. Slaughter / Killing
+
+| **Requirement** | **Description** | **Bronze** | **Silver** | **Gold** |
+|----------|-------------|--------|--------|------|
 | 6.1 General | All slaughter/killing systems need to be designed and managed to ensure animals are not caused unnecessary or intentional distress or discomfort before slaughter. If slaughter does not occur on farm, approved Regenerative Organic Certified® third-party animal welfare audit records of the slaughter facility must be provided. | R | R | R |
 | 6.2 Pre-slaughter | Operations work to minimize the pre-slaughter handling of animals. This includes but is not limited to handling animals without abuse, ensuring animals have good traction on flooring and do not slip or fall during unloading and movement around the farm or plant, and have their view of the slaughter floor obscured as to avoid any unnecessary stress or discomfort. If slaughter does not occur on farm, approved Regenerative Organic Certified® third-party animal welfare audit records of the slaughter facility must be provided. | R | R | R |
 | 6.3 Slaughter Methods | Slaughter is performed using stunning methods that result in immediate insensitivity, such as a shot to brain or penetrative bolt stunning followed by bleeding. Pre- shackle, multi-step controlled-atmosphere stunning may be used in poultry. If slaughter does not occur on farm, approved Regenerative Organic Certified® third-party animal welfare audit records of the slaughter facility must be provided. | R | R | R |
 | 6.4 Euthanasia | Animals experiencing pain or suffering from which they are unlikely to recover must be promptly euthanized on the farm in a manner that renders the animal immediately insensible to pain. Prohibited euthanasia practices include: <ul><li>Suffocation</li><li>Manual blow to head by blunt instrument or any manual blunt force trauma</li><li>Use of equipment that crushes the neck (incl. killing pliers or Burdizzo clamps)</li></ul> *CT: Euthanizing in a way that causes unnecessary pain or suffering.* | R | R | R |
-| **7. Transportation** | **Description** | **Bronze** | **Silver** | **Gold** |
+
+#### 7. Transportation
+
+| **Requirement** | **Description** | **Bronze** | **Silver** | **Gold** |
+|----------|-------------|--------|--------|------|
 | 7.1 General | Animal transport systems are designed and managed to ensure animals are not subjected to unnecessary distress or discomfort. Operations and handlers have emergency plans in place that address possible animal welfare problems that may arise during transport. If the producer does not control the transportation of animals off-farm: <br><br> <ul><li>Approved Regenerative Organic Certified® third-party animal welfare audit records must be provided for the transport operator</li></ul>OR<ul><li>The producer must keep records of all off-farm transportation, including date of transport, number of animals transported and destination, type of vehicle and company used, and transport time.</li></ul>  | R | R | R |
 | 7.2 Transport Time | Food and water are not withdrawn for more than 12 hours prior to slaughter. Transportation time from loading of first animal to last animal unloading is less than 13 hours.* Exceptions apply for transportation of breeding stock when such livestock with desired genetics are not located within maximum transport time allowance. If the producer does not control the transportation of animals off-farm: <br><br> <ul><li>Approved Regenerative Organic Certified® third-party animal welfare audit records must be provided for the transport operator</li></ul>OR<ul><li>The producer must keep records of all off-farm transportation, including date of transport, number of animals transported and destination, type of vehicle and company used, and transport time.</li></ul> *For Bronze operations, transportation times greater than 13 hours are permitted. | R* | R | R |
-| **8. Training & Personnel** | **Description** | **Bronze** | **Silver** | **Gold** |
+
+#### 8. Training & Personnel
+
+| **Requirement** | **Description** | **Bronze** | **Silver** | **Gold** |
 | 8.1 Personnel | Operations ensure that all employees working with animals are trained on basic measures of animal welfare and have the relevant and necessary skills to perform their duties. Producers are thoroughly trained, skilled, and competent in animal husbandry, animal transport, slaughter, and have a good working knowledge of their system and animals under their care. | R | R | R |
 
 ## Farmer & Worker Fairness
@@ -214,52 +255,98 @@ The scope of the Farmer & Worker Fairness module within Regenerative Organic Cer
 
 ### Standards for Farmer and Worker Fairness
 
-| **1. Law and Code Compliance** | **Description** | **Bronze** | **Silver** | **Gold** |
+#### 1. Law and Code Compliance
+
+| **Requirement** | **Description** | **Bronze** | **Silver** | **Gold** |
 |----------|-------------|--------|--------|------|
 | 1.1 Existing Certifications | Operation has proof of existing social fairness certification recognized under Regenerative Organic Certified®, as applicable to the operation being certified.<br><br> *For Bronze and Silver operations in the Global North, requirement for proof of existing certification is waived. All criteria within the Regenerative Organic Certified® social pillar must be met by undergoing a complete social audit with an approved Regenerative Organic Certified® certifier.| R* | R* | R |
 | 1.2 Business License | Operations have a valid business license and/or building permit where required by law to operate. | R | R | R |
 | 1.3 Labor Laws, Legal, & International Conventions Compliance | Operations have researched all applicable laws related to labor conditions, working conditions, health and safety, and terms of employee and are in compliance with all local, provincial/state, and national laws. Operation is in compliance with all Freedom of Association and Collective Bargaining laws, as [outlined by the International Labor Organization](http://www.ilo.org/declaration/principles/freedomofassociation/lang--en/index.htm). <br><br> Workers understand and are trained on their rights. Employment contracts are negotiated and executed in good faith and the operator honors any commitments made in a contract. The operator recognizes the right of all employees to negotiate their terms of employment, whether individually, as a group, or through democratically appointed representatives. Auditors are granted access to the entirety of requested audits. Operation shall not offer bribes to auditors. <br><br> *CT: Lack of proper, valid, up-to-date licenses and/or permits as required by law* | R | R | R |
 | 1.4 Supply Chain Requirements | A Regenerative Organic Certified®-approved social certification must be attained at one or more major stages of manufacturing and processing. See supplemental [processor criteria](https://regenorganic.org/wp-content/uploads/2020/06/ROC_Processor-Criteria_June2020.pdf). | O | O | R |
-| **2. Child Labor** | **Description** | **Bronze** | **Silver** | **Gold** |
+
+#### 2. Child Labor
+
+| **Requirement** | **Description** | **Bronze** | **Silver** | **Gold** |
+|----------|-------------|--------|--------|------|
 | 2.1 Child Labor | With the exception of the operator's family members, no children below the lowest of 15, legal age, or age of compulsory schooling are employed. Children under 18 do not perform work that jeopardizes health, safety, education, and emotional or physical development. Work performed should be light work, under the supervision of a parent, and never at night. | R | R | R |
 | 2.2 Family Members | If an operator's children or children of any employee, farmer, or worker work onsite, the operator must ensure that a child's employment does not interfere with his or her schooling, safety or physical development. | R | R | R |
 | 2.3 Work Restrictions for Children and Young Workers | Children should not engage in hazardous work, such as heavy lifting, exposure to dangerous agriculture production activities, including exposure to chemicals/pesticides. | R | R | R |
-| **3. Forced Labor & Hiring** | **Description** | **Bronze** | **Silver** | **Gold** |
+
+#### 3. Forced Labor & Hiring
+
+| **Requirement** | **Description** | **Bronze** | **Silver** | **Gold** |
+|----------|-------------|--------|--------|------|
 | 3.1 Human Trafficking and Forced Labor | People are not forced to work or remain on premises against their will. | R | R | R |
 | 3.2 Hiring Practices | Hiring practices are not deceptive and do not result in forced labor. Operator must not facilitate human trafficking. | R | R | R |
 | 3.3 Contractors | If recruited or contracted labor is used, the employer must pay any fees associated with recruitment and employees must have same rights and benefits as direct employees. The Operator must formally recognize the “Employer Pays” principle.<br><br> All standards apply to all employees whether hired directly or through a contractor, including access to a grievance process for any complaints, the right to be free of forced labor, and no unfair deductions from paycheck. The use of recruiters and subcontractors is allowed only when employer can document need. See Guidance document for more details regarding use of labor contractors. | R | R | R |
-| **4. Harassment, Abuse, & Disciplinary Practices** | **Description** | **Bronze** | **Silver** | **Gold** |
+
+#### 4. Harassment, Abuse, & Disciplinary Practices
+
+| **Requirement** | **Description** | **Bronze** | **Silver** | **Gold** |
+|----------|-------------|--------|--------|------|
 | 4.1 No Harassment or Abuse | No harassment or abuse including, but not limited to: physical, verbal, or psychological abuse such as threats, foul language towards workers, or intimidation; demoralizing or overly harsh treatment or disciplinary action; monetary fines; or opposite sex pat-down. No cases of sexual harassment experienced before, during, or after end of employment relationship. Management must take action to discipline personnel who engage in any such instances of harassment or abuse. | R | R | R |
 | 4.2 Disciplinary Procedure | All operators must have a documented disciplinary procedure, with an escalation process before dismissal is considered. No worker should be subject to the procedure without due cause. Where contextually appropriate, workers are allowed to have a representative with them at disciplinary meetings. | R | R | R |
-| **5. Discrimination** | **Description** | **Bronze** | **Silver** | **Gold** |
+
+#### 5. Discrimination
+
+| **Requirement** | **Description** | **Bronze** | **Silver** | **Gold** |
+|----------|-------------|--------|--------|------|
 | 5.1 Discrimination | Operations do not discriminate in any aspect of the employment relationship. This can include but is not limited to recruitment, hiring, compensation, benefits, work assignments, access to training, advancement, discipline, termination, or retirement. | R | R | R |
 | 5.2 Equal Pay | Operators must have a documented commitment to the principle of equal pay for equal work for all workers. Section 5.2 criteria may or may not apply to immediate family members as defined in Key Terms, depending on local legislation. Operators do not interfere with worker efforts to assemble, strike, or hold elections in an independent manner. This includes interference or prevention of strikes; employer proposed or initiated worker elections; worker elections conducted or facilitated by management; mandatory worker participation in elections; prevention of worker organizations from presenting to workers; prevention of trade union representatives from regular and reasonably free access to workers during workers’ free time.<br><br> Operation does not threaten or intimidate workers directly or indirectly with termination, pay cuts, loss of benefits, or plant closure, and does not coerce workers with promises to keep them from freely participating in union or other activities.| R | R | R |
-| **6. Feredom of Association & Collective Bargaining** | **Description** | **Bronze** | **Silver** | **Gold** |
+
+#### 6. Freedom of Association & Collective Bargaining
+
+| **Requirement** | **Description** | **Bronze** | **Silver** | **Gold** |
+|----------|-------------|--------|--------|------|
 | 6.1 Protection Against Retaliation | Operation does not interfere with and is seen to welcome free association and collective bargaining. | R | R | R |
 | 6.2 Employer Instituted Unions | Employers do not institute unions or alternative associations used by employers to hinder union organization. Employers do not utilize protection contracts. | R | R | R |
 | 6.3 Precarious Employment | Operation does not utilize atypical employment contracts in order to avoid workers' full or partial enjoyment of social benefits and statutory entitlements, or as a way of limiting workers’ ability to freely associate and collectively bargain. Section 6.3 criteria may or may not apply to immediate family members as defined in Key Terms, depending on local legislation. | R | R | R |
-| **7. Employment Relationship** | **Description** | **Bronze** | **Silver** | **Gold** |
+
+#### 7. Employment Relationship
+
+| **Requirement** | **Description** | **Bronze** | **Silver** | **Gold** |
+|----------|-------------|--------|--------|------|
 | 7.1 Worker Voice | All operations have processes to listen and address worker complaints in a transparent way. In large operations workers are trained in worker rights and a grievance procedure is provided in a culturally appropriate way (i.e. language- accessible as well as using interactive materials and not only posted). An external workers’ association or workers’ right group and/or an internal independently- elected workers committee is present for and is involved in all or part the training. An independently-elected workers committee must also be involved in grievance investigation and resolution. | R | R | R |
 | 7.2 Worker Independence & Empowerment | If workers would like to form an association, they are free to do so. If desired, workers hold independent, democratic elections to form worker associations for contract negotiations involving pay and conditions on farm/ranch and to create committees to address relevant ongoing challenges and opportunities, for example premium fund administration and health & safety. | R | R | R |
 | 7.3 Employment Contracts & Terms | Employment contracts are negotiated and executed in good faith and the operator honors any commitments made in a contract.<br><br>The operator recognizes the right of all employees to negotiate their terms of employment, whether individually, as a group or through democratically appointed representatives. The operator takes sole responsibility for fees associated with employment of workers. The use of agency supplied labor is permitted but the increased risks around this must be recognized by the operator and reasonable steps must be taken to seek assurance, including collaboration within the area/sector. | R | R | R |
 | 7.4 Interns and Apprentices | Operators may use internships and apprenticeships in the spirit in which these have been established i.e. to educate, to develop and to create opportunity but avoiding any possibility of the arrangement being exploitative. All interns and apprentices must have clear and comprehensive contracts agreement, their rights explained to them clearly in writing and a fair stipend paid to cover living expenses. | R | R | R |
-| **8. Wages & Benefits** | **Description** | **Bronze** | **Silver** | **Gold** |
+
+#### 8. Wages & Benefit
+
+| **Requirement** | **Description** | **Bronze** | **Silver** | **Gold** |
+|----------|-------------|--------|--------|------|
 | 8.1 Wages | Operations pay wages and benefits in accordance with the law with any deductions also being in accordance with the law and formally agreed in advance with the worker concerned. Operators must not pay wages to anyone other than the employed individual.<br><br> *CT: Illegal or excessive legal deductions (including charges/deposits for tools, equipment, uniforms, etc.).*<br>*CT: Pay below minimum wage.* | R | R | R |
 | 8.2 Commitment to a Living Wage | All operations must demonstrate a commitment to pay a living wage and an intent to progress towards paying a living wage as defined in the Appendix. <br> If an operator cannot pay a living wage, the operation must: <ol><li>Assess wage gaps against the target living wage estimate; and</li><li>Communicate transparently with workers about why a living wage cannot be paid</li></ol> If piecework is paid, the combination of worker’s wages and benefits shall not be below a living wage unless the other elements of this standard are met. Salaries and benefits for workers are set according to relevant national laws, at regional average wages, or at official minimum wages for similar occupations whichever is the highest. Wages are specified for all employee functions and employment terms, such as piecework. <br><br> *Medium and large-scale operations only:*<br> If present, operations pay wages according to a negotiated collective bargaining agreement (CBA), whichever is higher. If higher than the regional average or national minimum wage. By year three of certification, operations must demonstrate that wages paid to all workers are equal to or above a living wage. This can be inclusive of social benefits, in-kind benefits, and bonuses. Section 8.2 criteria may or may not apply to immediate family members as defined in Key Terms, depending on local legislation.<br><br> * *See the Appendix for definitions for small-, medium-, and large-scale operations and additional guidance on calculating living wage.* | R | R | Operations must demonstrate that a living wage is paid to workers without exception. |
 | 8.3 Manipulated or Manipulative Records | Any type of manipulation of records or other evidence to deceive the auditor and impact audit results is prohibited. Section 8.3 criteria may or may not apply to immediate family members as defined in Key Terms, depending on local legislation. | R | R | R |
 | 8.4 Housing | If housing is provided as a voluntary benefit, it does not represent a financial burden. Where workers are provided with housing, housing should meet local rental requirements, with rent values at or below market value, and the conditions and infrastructure of the housing ensure a reasonable level of comfort, including sanitation, safety, ventilation, reasonable protection from heat and cold, privacy, and security. This may include but is not limited to a clean personal bed and space for personal belongings, protection from extreme temperatures, good ventilation and air quality, clean water for cooking, drinking, and bathing, access to functional toilets, and access to recreational areas.<br> Section 8.4 criteria may or may not apply to immediate family members as defined in Key Terms, depending on local legislation. | R | R | R |
 | 8.5 Timely Payment of Wages | Operators must have systems in place to ensure timely payment of wages to employees no less than every two weeks unless agreed in writing with the employee. Payments must be in accordance with the law and fully itemized pay slips must be provided and records kept. Section 8.5 criteria may or may not apply to immediate family members as defined in Key Terms, depending on local legislation. | R | R | R |
-| **9. Hours of Work** | **Description** | **Bronze** | **Silver** | **Gold** |
+
+#### 9. Hours of Work
+
+| **Requirement** | **Description** | **Bronze** | **Silver** | **Gold** |
+|----------|-------------|--------|--------|------|
 | 9.1 Hours of Work | Operators shall not require workers to work more than the regular and overtime hours allowed by the law of the country where the workers are employed. The regular work week shall not exceed 48 hours or the maximum allowed by the law of the country of manufacture, whichever is less.<br><br> Operators shall allow workers regular resting breaks during the work day and allow at least 24 consecutive hours of rest in every seven-day period. Employers shall not request overtime hours on a regular basis or require that workers work overtime. If total regular and overtime hours exceed 60 hours per week, this does not occur for more than 3 months per year. For salaried positions, hours of work must be included in any employment contract. | R | R | R |
-| **10. Health & Safety** | **Description** | **Bronze** | **Silver** | **Gold** |
+
+#### 10. Health & Safety
+
+| **Requirement** | **Description** | **Bronze** | **Silver** | **Gold** |
+|----------|-------------|--------|--------|------|
 | 10.1 Health, Safety, and Potential Hazards | Operation minimizes number of immediate threats to workers lives. Operations provide the following: <ul><li>Personal protective equipment at the employers' expense that is functional and properly maintained, along with training for how to use and store protective equipment.</li><li>Protection from excess heat and/or access to shade, particularly in hot climates, and an allowance to take rests/breaks to access shade and/or consume water.</li><li>Access to clean drinking water.</li><li>Access to toilet and sanitation facilities.</li><li>Emergency preparedness training and access to first aid equipment with instructions.</li><li>Access to healthcare, at least for cases of workplace accidents and injuries.</li><li>Training for proper handling or storage of flammable materials/chemicals.</li></ul>Operators must ensure that health and safety concerns of all employees are listened to and acted upon as appropriate. Operators with 20 or more employees or more must formally establish a Health and Safety Committee with a remit to review Health and Safety performance and any issues arising. Appointments to the Committee must be open and democratic.<br><br> *CT: Substandard, unsafe, or unsanitary conditions that pose danger to employees or the environment.* | R | R | R |
 | 10.2 Exits | Buildings have adequate exits to ensure safe evacuation for all workers, and meet all requirements of local law. All exits remain unlocked. | R | R | R |
 | 10.3 Buildings | Policies in place to minimize environmental impacts with respect to energy, air emissions, water, waste, hazardous materials, and other significant environmental risks. All necessary ventilation, plumbing, electrical, noise, and lighting services shall be installed and maintained to conform to applicable laws and to prevent or minimize hazardous conditions to workers in the facility. | R | R | R |
 | 10.4 Privacy | Workers living in employer-provided housing have a right to privacy. The employer/owner has a right to inspect and enter the housing for the purposes of routine maintenance and/or repairs, but must, except for an emergency, notify residents. Such work must be done with a minimum of disturbance to any personal belongings. In order to meet additional workers’ privacy needs, management agrees with the workers on the privacy needs of the individual worker through a documented discussion. | R | R | R |
 | 10.5 Reduction of Accidents | Records must be maintained of all health and safety related incidents and operators must demonstrate a commitment to the reduction and elimination of such incidents over time. | R | R | R |
-| **11. Other** | **Description** | **Bronze** | **Silver** | **Gold** |
+
+#### 11. Other
+
+| **Requirement** | **Description** | **Bronze** | **Silver** | **Gold** |
+|----------|-------------|--------|--------|------|
 | 11.1 Grower Groups | Small-scale farmers must be free to organize in some way. In the Global South, to mitigate the risk of exploitation, small-scale producers who are not organized into formal democratic structures should still hold annual meetings and take on some of the responsibilities of a traditional farmer organization (i.e. electing representatives to negotiate with buyers). | R | R | R |
-| **12. Buyers & Supply Chain** | **Description** | **Bronze** | **Silver** | **Gold** |
+
+#### 12. Buyers & Supply Chain
+
+| **Requirement** | **Description** | **Bronze** | **Silver** | **Gold** |
+|----------|-------------|--------|--------|------|
 | 12.1 Buyers <br><br>*This criteria not applicable to farm or factory workers.* | All contracts between producers and buyers are fair and equitable. This includes fairly negotiated and equitable contracts with producers, fair conflict resolution, openness to long-term commitments, and buyers’ right to require up-to- date farmer certification of all applicable products.<br><br> Buyers make timely payments and provide a sourcing plan to producers with estimates of future purchases. Buyers also respect and work with existing producer groups, rather than to circumvent established groups to contract directly with an individual producer or producer subgroup.<br><br> Buyers must enter long-term commitments when desired by farmers or be transparent with farmers and the certifying body if they do not enter long-term commitments with farmers.<br><br> Buyers do not break commitments that adversely affect producers. Producers do not break commitments that adversely affect buyers. | R | R | R |
 | 12.2 Bargaining <br><br>*This criteria not applicable to farm or factory workers.* | All farmers have the right to freedom of association and to organize and engage in collective bargaining, free from retaliation of any kind by the buyer or his/her agents.<br><br>If farmers so choose, contracts between buyers and farmers are negotiated using a collective bargaining process.<br><br> If a farmer chooses to select a representative, the buyer recognizes and negotiates with representatives chosen by the farmer or democratically chosen by the farmer’s association in the case of collective bargaining. | R | R | R |
 | 12.3 Fair Pricing <br><br>*This criteria not applicable to farm or factory workers.* | Pricing between buyers and producers is mutually agreed by all through dialogue and participation by both to provide fair pay to producers. <ul><li>Where Fair Trade pricing structures exist, these are used as a minimum.</li><li>Where Fair Trade pricing structures do not exist, pricing should be based on the socially acceptable remuneration (in the local context) considered by producers themselves to be fair.</li></ul>Fair Pricing and Fair Payments guidelines are not applicable to producers acting as buyers when buying organic or non- organic commodity grains on an open market. | R | R | R |
