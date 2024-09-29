@@ -247,6 +247,7 @@ The below standards are intended to incorporate the [five freedoms](#animal-welf
 #### 8. Training & Personnel
 
 | **Requirement** | **Description** | **Bronze** | **Silver** | **Gold** |
+|----------|-------------|--------|--------|------|
 | 8.1 Personnel | Operations ensure that all employees working with animals are trained on basic measures of animal welfare and have the relevant and necessary skills to perform their duties. Producers are thoroughly trained, skilled, and competent in animal husbandry, animal transport, slaughter, and have a good working knowledge of their system and animals under their care. | R | R | R |
 
 ## Farmer & Worker Fairness
